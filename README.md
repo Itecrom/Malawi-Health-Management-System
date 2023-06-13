@@ -1,22 +1,21 @@
 ![](poster.jpg)
-# Hospital-Management-System
-🏥 The hospital management system (HMS) is integrated software that handles different directions of clinic workflows. It manages the smooth healthcare performance along with administrative, medical, legal, and financial control. That is a cornerstone for the successful operation of the healthcare facility.
+# Malawi Hospital-Management-System
+🏥 The Malawi hospital management system (HMS) is integrated software that handles different directions of clinic workflows. It manages the smooth healthcare performance along with administrative, medical, legal, and financial control. That is a cornerstone for the successful operation of the healthcare facility.
 
 This application has both the backend and the frontend part of a hospital management system. You can use the backend application if you have any frontend graphical user interface of a hospital management system. In that case, you will need to use the [main.py](main.py) file for glue code. This HMS application is completely designed in Python for specifically PostgreSQL Database.
 
 Psycopg2 and Kivy module is used for creating the database connection and frontend part. Here different algorithms have been implanted from the developer’s point of view. It is suitable for a mid-level hospital or clinic. Working strategy plays a vital role to keep this application running smoothly.
 <br><br>
-*If you want to use this application in your project, first [contact me](mailto:@ahammadshawki8@gmail.com).*
+*If you want to use this application in your project, first [contact me](mailto:@leonardjjmhone@gmail.com).*
 
 <br>
 
 # How to use
 - Download the frameworks and libraries mentioned in [requirements.txt](requirements.txt)
-- Download the [zip file](https://codeload.github.com/ahammadshawki8/Hospital-Management-System/zip/main) of this repository
-- See the [demo]() video
+- Download the [zip file]of this repository
 - Run the [frontend.py](frontend.py) file
 - Enjoy using this application
-- If you find any difficulty or have any suggestion for future updates, create an [issue](https://github.com/ahammadshawki8/Hospital-Management-System/issues)
+- If you find any difficulty or have any suggestion for future updates, 
   
 <br>
 
@@ -123,21 +122,3 @@ Psycopg2 and Kivy module is used for creating the database connection and fronte
 Details can be found in [LICENSE](LICENSE)
 
 <br>
-
-# Some ScreenShots 
-![ss1](resources/ss1.png)
-<br>
-<br>
-![ss2](resources/ss2.png)
-<br>
-<br>
-![ss3](resources/ss3.png)
-<br>
-<br>
-![ss4](resources/ss4.png)
-<br>
-<br>
-![ss5](resources/ss5.png)
-<br>
-<br>
-![ss6](resources/ss6.png)
